@@ -1,5 +1,7 @@
 # i18n 多语言显示插件使用方法
 
+下载插件 [cocos-creator-i18n](http://cocostudio.download.appget.cn/CocosCreator/packages/cocos-creator-i18n.zip)
+
 本插件适用于 Cocos Creator v1.0 或更高版本，插件将会在您的项目里添加以下内容：
 
 - `i18n/i18n.js`: 负责本地化文本数据的初始化和运行时提供翻译输出的方法。
