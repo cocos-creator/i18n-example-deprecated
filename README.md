@@ -1,6 +1,6 @@
 # i18n 多语言显示插件使用方法
 
-i18n 插件开源在 [cocos-creator-packages/i18n](https://github.com/cocos-creator-packages/i18n) 仓库，可直接下载 [最新版](https://github.com/cocos-creator-packages/i18n/archive/master.zip) 或 [Creator v1.x 版](https://github.com/cocos-creator-packages/i18n/archive/v1.x.zip)。
+i18n 插件开源在 [cocos-creator-packages/i18n](https://github.com/cocos-creator-packages/i18n) 仓库，可直接下载 [最新版](https://github.com/cocos-creator-packages/i18n/archive/master.zip)。
 
 本插件适用于 Cocos Creator v1.0 或更高版本，插件将会在您的项目里添加以下内容：
 
